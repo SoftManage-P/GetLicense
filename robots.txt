@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin*	
+allow: /
+sitemap: https://getlicensefast.co.uk/sitemap.xml
+
